@@ -1,0 +1,15 @@
+# Private Daten niemals committen
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+private/
+customers/
+invoices/
+orders/
+*.sqlite
+.DS_Store

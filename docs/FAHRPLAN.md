@@ -1,10 +1,12 @@
 # Fahrplan – kleiner, kontrollierter Start
 
 ## Phase 1: Produkt validieren
-- [ ] Konkrete Wettbewerber und relevante Produktpreise mit Quelle/Datum erfassen
-- [ ] Blanko-Shirts und Druckanbieter vergleichen
-- [ ] Vollständige Kosten inkl. Versand und Gebühren ermitteln
-- [ ] Muster bestellen und Trage-/Waschtest dokumentieren
+- [x] Fünf konkrete POD-Shirts und Anbieter anhand Primärquellen vergleichen – [Bericht](../research/PHASE1_OVERSIZED_SHIRTS_2026-11-01.md)
+- [x] Erste Top 3 und vorläufigen Musterkandidaten auswählen
+- [x] Dokumentierte Kostenansätze samt Steuern und Retourenrisiken zusammentragen
+- [ ] Konkrete Checkout-Endpreise inkl. Versand und Steuern für Größe/Farbe/Druck prüfen
+- [ ] Eigenes Lieblingsshirt vermessen und Größe ableiten
+- [ ] Muster **erst nach Freigabe** bestellen und Trage-/Waschtest dokumentieren
 - [ ] Erste Zielgruppe anhand Nachfrage und Rückmeldungen eingrenzen
 
 ## Phase 2: Marke und Design

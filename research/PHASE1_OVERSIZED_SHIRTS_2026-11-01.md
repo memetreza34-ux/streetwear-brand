@@ -102,3 +102,13 @@ Warum:
 - [ ] Neutralen Testdruck vorbereiten (noch kein endgültiges Markenmotiv nötig).
 - [ ] Muster selbst bestellen (nur nach ausdrücklicher Entscheidung).
 - [ ] Stoff, Nähte, Kragen, Druck, Einlaufen und Waschbeständigkeit fotografisch testen.
+
+
+## Zusatzcheck (01.11.2026) – Abrechnungskanal und Händlerbedingungen
+
+- **westernprint B2B-POD:** Die 12,95 € + 5,00 € netto stammen vom **POD-Shopify-/Merch-Programm** und beziehen sich auf eine angegebene Referenzfarbe/einen Druck. Für einen **separaten Musterauftrag ohne Shop** ist ein konkretes Angebot einzuholen; die Muster-Endsumme muss nicht identisch sein.
+- **westernprint Direktshop:** nennt **4,90 € Versand inkl. MwSt.** für Verbraucherbestellungen. Dieser Direktshop-Tarif **darf nicht** mit dem POD-B2B-Versand von 5 € netto vermischt werden. Quelle: https://westernprint.de/shop
+- **westernprint Reklamation:** Auf der Etsy-Seite wird bei Druckfehlern eine Bildmeldung binnen **7 Tagen** genannt. Es ist unklar, ob diese Frist identisch für Shopify-POD-Partner ist; Vertragsbedingungen vor Verkauf schriftlich klären. Quelle: https://westernprint.de/etsy-print-on-demand
+- **westernprint alternative BY163:** Der Anbieter nennt auch BY163 als möglichen Streetwear-Blanko-Kandidaten; jedoch ohne transparenten eigenen POD-Einzelpreis in derselben Liste. Quelle: https://westernprint.de/fuer/streetwear-brands
+- **BY102 Farbzusammensetzung:** Für Schwarz gilt laut Produktblatt 100 % Baumwolle. Bei **Grey** sind 90 % Baumwolle/10 % Viskose, bei **Charcoal** 60 % Baumwolle/40 % Polyester angegeben. Bei Farbwechsel die Materialkennzeichnung gesondert prüfen. Hersteller: https://www.buildyourbrand.de/de/heavy-oversize-tee
+- **Genauigkeit:** Ein Online-Katalog kann weder subjektiven Stoffkomfort noch Druckwaschbeständigkeit eines konkreten Stücks verifizieren. Erst Trage- und Waschtests geben eine belastbare Qualitätsentscheidung.

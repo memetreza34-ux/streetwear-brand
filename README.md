@@ -15,6 +15,7 @@ Dieses Repository bündelt die Planung einer eigenen Modemarke mit bereits vorha
 ## Projektübersicht
 - [Status und aktuelle Entscheidungen](docs/STATUS.md)
 - [Vorgehen und Meilensteine](docs/FAHRPLAN.md)
+- **[Phase 1 – 5 konkrete Oversized-Shirts, Top 3 & Musterkandidat (01.11.2026)](research/PHASE1_OVERSIZED_SHIRTS_2026-11-01.md)**
 - [Recherche-Vorlage für Konkurrenz](research/WETTBEWERB.md)
 - [Blanko- und Anbieter-Vergleich](suppliers/PRODUKTVERGLEICH.csv)
 - [Design-Ablage](designs/README.md)
@@ -23,7 +24,7 @@ Dieses Repository bündelt die Planung einer eigenen Modemarke mit bereits vorha
 - [Marketing-Ideen](marketing/README.md)
 
 ## Datenschutz / Sichtbarkeit
-**Das Repository ist zurzeit öffentlich.** Hier keine echten Kundendaten, Adressen, Konto-/Steuerdaten, Rechnungen, Verträge, Passwörter, API-Schlüssel oder nicht freigegebene Entwürfe hochladen. Für vertrauliche interne Unterlagen Repository erst auf **Private** umstellen.
+**Beim Einrichten war das Repository öffentlich.** Falls unverändert: bitte vor vertraulichen Einträgen auf **Private** stellen. Keine echten Kundendaten, Adressen, Konto-/Steuerdaten, Rechnungen, Verträge, Passwörter, API-Schlüssel oder nicht freigegebene Entwürfe hochladen.
 
 ## Nächster Schritt
-Konkrete Blanko-Shirts, Druckdienstleister und vollständige Lieferkosten vergleichen. Danach ein Muster auswählen und die Qualität testen. Erst anschließend Design und Shop planen.
+BY102-Maße vergleichen und für den konkreten Musterauftrag Endpreise in Deutschland ohne Bestellung prüfen. Danach Muster entscheiden, testen und erst anschließend Design/Shop planen.

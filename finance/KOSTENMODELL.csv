@@ -1,2 +1,5 @@
 Artikel,Verkaufspreis_EUR,Blanko_inkl_Druck_EUR,Versand_EUR,Zahlungs_und_Plattformgebuehren_EUR,Retourenreserve_EUR,Weitere_variable_Kosten_EUR,Deckungsbeitrag_EUR,Quelle_und_Datum
-Beispiel_nicht_verifiziert,44.90,24.00,5.00,2.50,3.00,0.00,10.40,Reines_Rechenbeispiel_keine_Anbieterpreise
+westernprint_BY102_1_Druck_39_90_Brutto_ohne_Folgekosten,39.90,15.41,5.95,0,0,0,18.54,Anbieter_23-10-2026_netto_12.95_plus_5.00_Versand_mit_19Prozent_USt_RECHENMODELL
+westernprint_BY102_1_Druck_44_90_Brutto_ohne_Folgekosten,44.90,15.41,5.95,0,0,0,23.54,Anbieter_23-10-2026_netto_12.95_plus_5.00_Versand_mit_19Prozent_USt_RECHENMODELL
+westernprint_BY102_2_Drucke_44_90_Brutto_ohne_Folgekosten,44.90,21.36,5.95,0,0,0,17.59,Anbieter_23-10-2026_netto_17.95_plus_5.00_Versand_mit_19Prozent_USt_RECHENMODELL
+Printful_AS_Colour_5082_1_Druck_44_90_Mindestkonfiguration,44.90,25.43,4.49,0,0,0,14.98,Printful_01-11-2026_Preis_inkl_MwSt_Versand_ab_Wert_KEIN_FINALER_WARENKORB

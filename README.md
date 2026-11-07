@@ -13,6 +13,8 @@ Dieses Repository bündelt die Planung einer eigenen Modemarke mit bereits vorha
 - Kein Design, keine Herstellerwahl und kein Markenname sind bisher verbindlich beschlossen.
 
 ## Projektübersicht
+- **[Markenfundament – Brandbook v0.1](brand/BRANDBOOK_V0_1.md)**
+- **[Einfacher Spreadshop-Testablauf](brand/TESTPHASE_ABLAUF.md)**
 - [Status und aktuelle Entscheidungen](docs/STATUS.md)
 - [Vorgehen und Meilensteine](docs/FAHRPLAN.md)
 - **[Phase 1 – 5 konkrete Oversized-Shirts, Top 3 & Musterkandidat (01.11.2026)](research/PHASE1_OVERSIZED_SHIRTS_2026-11-01.md)**
@@ -27,4 +29,4 @@ Dieses Repository bündelt die Planung einer eigenen Modemarke mit bereits vorha
 **Beim Einrichten war das Repository öffentlich.** Falls unverändert: bitte vor vertraulichen Einträgen auf **Private** stellen. Keine echten Kundendaten, Adressen, Konto-/Steuerdaten, Rechnungen, Verträge, Passwörter, API-Schlüssel oder nicht freigegebene Entwürfe hochladen.
 
 ## Nächster Schritt
-BY102-Maße vergleichen und für den konkreten Musterauftrag Endpreise in Deutschland ohne Bestellung prüfen. Danach Muster entscheiden, testen und erst anschließend Design/Shop planen.
+Für die laufende kostengünstige Spreadshop-Testphase zuerst die drei abstrakten Designfamilien als Einzelmotive erproben und die passende druckfertige Datei getrennt vom Mockup bereitstellen. Das frühere BY102/Printify-POD-Projekt bleibt als Option für spätere Qualitätsvergleiche erhalten. Kein Verkauf oder Gewerbestart erfolgt durch diese Planung.

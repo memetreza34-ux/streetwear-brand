@@ -1,6 +1,6 @@
 # Projektstatus
 
-Stand: 2026-11-01 · Phase 1: **Produktrecherche abgeschlossen, Beschaffung noch offen**
+Stand: 2026-11-07 · Phase 1: **Produktrecherche abgeschlossen; Marken-/Spreadshop-Testphase zusätzlich eröffnet**
 
 ## Vorläufige Richtung
 - Eigenständige, langfristig angelegte Unisex-Modemarke
@@ -46,3 +46,12 @@ BY102, Schwarz, Größe erst nach Abgleich mit vorhandenem Lieblingsshirt, ein k
 2. Für BY102 via westernprint und Printify sowie AS Colour 5082 via Printful **ohne Bezahlung** reale Versand- und Muster-Gesamtsummen prüfen.
 3. Kostenlosen Testdruck für Musterprüfung vorbereiten, noch keine Marke festlegen.
 4. Dann erste Musterbestellung nach ausdrücklicher Entscheidung durchführen.
+
+## Neue kreative Testphase (2026-11-07)
+- Der Spreadshop-Testshop `nervalo` wurde vom Nutzer selbst eingerichtet; Veröffentlichung ist noch nicht freigegeben.
+- Drei vorläufige Designfamilien: Celestial, Ornamental, Fluid; keine Tiere oder Charakterporträts.
+- Gestaltungsziel: hochwertig, erwachsen, tragbar, eigenständige geometrische bzw. abstrakte Kunst.
+- Schwarz als wichtige Shirtfarbe, creme-/silbergraue Druckmotive zur Probe.
+- **Getrennte Dateien:** druckfähiges Motiv mit echter Transparenz und Mockup-Vorschau. Nie kombinieren.
+- [`brand/BRANDBOOK_V0_1.md`](../brand/BRANDBOOK_V0_1.md) und [`brand/TESTPHASE_ABLAUF.md`](../brand/TESTPHASE_ABLAUF.md) enthalten die aktuellen Entscheidungen.
+- Frühere BY102-Recherche bleibt gültig als alternative spätere Lieferantenprüfung; keine bestehende Kaufentscheidung.

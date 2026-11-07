@@ -13,6 +13,8 @@ Dieses Repository bündelt die Planung einer eigenen Modemarke mit bereits vorha
 - Kein Design, keine Herstellerwahl und kein Markenname sind bisher verbindlich beschlossen.
 
 ## Projektübersicht
+- **[Design-Werkzeuge und externe Skills – Auswahl 07.11.2026](research/DESIGN_TOOLS_UND_SKILLS_2026-11-07.md)**
+- **[NERVALO-Design-Skill für wiederholbare Streetwear-Designs](.agents/skills/nervalo-streetwear-design/SKILL.md)**
 - **[Markenfundament – Brandbook v0.1](brand/BRANDBOOK_V0_1.md)**
 - **[Einfacher Spreadshop-Testablauf](brand/TESTPHASE_ABLAUF.md)**
 - [Status und aktuelle Entscheidungen](docs/STATUS.md)

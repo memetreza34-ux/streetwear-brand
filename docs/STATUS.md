@@ -55,3 +55,11 @@ BY102, Schwarz, Größe erst nach Abgleich mit vorhandenem Lieblingsshirt, ein k
 - **Getrennte Dateien:** druckfähiges Motiv mit echter Transparenz und Mockup-Vorschau. Nie kombinieren.
 - [`brand/BRANDBOOK_V0_1.md`](../brand/BRANDBOOK_V0_1.md) und [`brand/TESTPHASE_ABLAUF.md`](../brand/TESTPHASE_ABLAUF.md) enthalten die aktuellen Entscheidungen.
 - Frühere BY102-Recherche bleibt gültig als alternative spätere Lieferantenprüfung; keine bestehende Kaufentscheidung.
+
+## Korrektur 2026-11-08 – neue Markenstrategie (aktuell)
+- **Aktuell maßgeblich:** [Brandbook v0.2](../brand/BRANDBOOK_V0_2.md). Das alte v0.1 und frühere Festlegungen auf Mond/Dark Luxury/Ornament/Fluid sind nur dokumentierte Tests, keine bindende Designrichtung.
+- Nutzer möchte viele **unterschiedliche eigenständige T-Shirt-Designs**, nicht ausschließlich einen einheitlichen Markenstil oder Mond-/Tier-/Ornamentmotive.
+- Ein gemeinsamer Markenname und ein qualitätsvoller Shop bilden die Dachstruktur; einzelne Motive können stark variieren.
+- Nächster Schritt ist **Designreferenz-Analyse erfolgreicher Marken**, ohne deren geschützte Logos/Motive zu kopieren.
+- Rechtliche Optionen: Marke für gemeinsamen Namen, ggf. eingetragenes Design für bestimmte eigenständige Gestaltungen, gewöhnliche Printmotive nicht patentieren.
+- Spreadshop bleibt reine Testumgebung; kein öffentlicher Verkauf beschlossen.

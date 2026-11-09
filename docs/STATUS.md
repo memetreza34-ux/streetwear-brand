@@ -63,3 +63,10 @@ BY102, Schwarz, Größe erst nach Abgleich mit vorhandenem Lieblingsshirt, ein k
 - Nächster Schritt ist **Designreferenz-Analyse erfolgreicher Marken**, ohne deren geschützte Logos/Motive zu kopieren.
 - Rechtliche Optionen: Marke für gemeinsamen Namen, ggf. eingetragenes Design für bestimmte eigenständige Gestaltungen, gewöhnliche Printmotive nicht patentieren.
 - Spreadshop bleibt reine Testumgebung; kein öffentlicher Verkauf beschlossen.
+
+## Richtungswechsel 2026-11-09 (maßgeblich)
+- [**Brandbook v0.3 – schlichte, vielseitige Alltagskleidung**](../brand/BRANDBOOK_V0_3.md) ersetzt frühere stilistische Festlegungen. Mond-/Ornament-/Fantasy-Motive ausdrücklich **nicht** mehr als Richtung voraussetzen.
+- Erfolgsbeispiele: Uniqlo (LifeWear), COS (Material & Proportionen), ARKET (kuratierte Basics).
+- Erst Shirt-Basis und tatsächliche Passform/Stoff auswählen, dann dezente Gestaltung; keine neuen KI-Bilder ohne Bedarf.
+- Spreadshop hat Premium-Bio-Oversize-Basics, zusätzliche Printflächen kosten extra und Muster können vor Shopaktivierung bestellt werden; tatsächliche Eigenschaften/Kosten prüfen.
+- Kein Verkauf, keine Bestellung, keine laufenden Kosten ausgelöst.

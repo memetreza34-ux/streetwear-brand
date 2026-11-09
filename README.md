@@ -13,6 +13,7 @@ Dieses Repository bündelt die Planung einer eigenen Modemarke mit bereits vorha
 - Kein Design, keine Herstellerwahl und kein Markenname sind bisher verbindlich beschlossen.
 
 ## Projektübersicht
+- **[AKTUELL: Markenstrategie v0.3 – schlichte, tragbare Alltagskleidung](brand/BRANDBOOK_V0_3.md)**
 - **[AKTUELLE Markenstrategie v0.2 – verschiedene Designs unter einer gemeinsamen Marke](brand/BRANDBOOK_V0_2.md)**
 - **[Design-Werkzeuge und externe Skills – Auswahl 07.11.2026](research/DESIGN_TOOLS_UND_SKILLS_2026-11-07.md)**
 - **[NERVALO-Design-Skill für wiederholbare Streetwear-Designs](.agents/skills/nervalo-streetwear-design/SKILL.md)**
@@ -32,4 +33,6 @@ Dieses Repository bündelt die Planung einer eigenen Modemarke mit bereits vorha
 **Beim Einrichten war das Repository öffentlich.** Falls unverändert: bitte vor vertraulichen Einträgen auf **Private** stellen. Keine echten Kundendaten, Adressen, Konto-/Steuerdaten, Rechnungen, Verträge, Passwörter, API-Schlüssel oder nicht freigegebene Entwürfe hochladen.
 
 ## Nächster Schritt
+Die bisherige Mond-/Ornament-Richtung und die Suche nach möglichst vielen auffälligen Prints sind zurückgestellt. Die aktuelle Strategie priorisiert **Passform, Material, Farben und dezente Details**. Siehe [Brandbook v0.3](brand/BRANDBOOK_V0_3.md).
+
 Für die Design-Testphase zuerst drei klar unterschiedliche erfolgreiche Marken als Designreferenzen untersuchen (nur Stilprinzipien, keine Kopien) und darauf aufbauend mehrere unabhängige Eigenentwürfe prüfen. Aktuelle Richtung in [Brandbook v0.2](brand/BRANDBOOK_V0_2.md). Kein Verkauf oder Gewerbestart erfolgt durch diese Planung.
